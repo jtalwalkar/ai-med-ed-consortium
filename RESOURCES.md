@@ -155,10 +155,10 @@ Resources and guidance for faculty on integrating AI into teaching and learning,
 *Source: University of Miami*
 
 ### Yale Guidelines for Use of Generative AI Tools
-Institutional guidelines from Yale's Provost office on the responsible use of generative AI tools in academic settings.
+Institutional guidelines from Yale's Provost office on the responsible use of generative AI tools in academic settings and health sciences.
 
-- [Guidelines](https://provost.yale.edu/news/guidelines-use-generative-ai-tools)
-
+- [General Guidelines](https://provost.yale.edu/news/guidelines-use-generative-ai-tools)
+- [Health Sciences Guidelines](https://ai.yale.edu/yales-ai-tools-and-resources/yale-standards-for-using-ai-tools-and-chatbots-in-health-sciences)
 *Source: Yale University*
 
 ### University of Chicago Generative AI Resources
